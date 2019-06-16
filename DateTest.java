@@ -14,9 +14,9 @@ public class DateTest {
 		System.out.println(sdf.format(future));
 
 		//or条件：a.length() == 0は評価されない
-		String b = null;
-		if (b == null || b.length() == 0) {
-		System.out.println(b);
+		String a = null;
+		if (a == null || a.length() == 0) {
+		System.out.println(a);
 		}
 	}
 
