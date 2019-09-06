@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.time.LocalDate;
 
-public class FIleTest {
+public class FileTest {
 	public static void main(String... args) {
 		try {
 			File inFile = new File("D:\\desk\\test.txt");
